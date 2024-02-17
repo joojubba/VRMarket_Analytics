@@ -1,0 +1,15 @@
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\bin\Debug\net6.0\RateCalculator.exe
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\bin\Debug\net6.0\RateCalculator.deps.json
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\bin\Debug\net6.0\RateCalculator.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\bin\Debug\net6.0\RateCalculator.dll
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\bin\Debug\net6.0\RateCalculator.pdb
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.dll
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\refint\RateCalculator.dll
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.pdb
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\RateCalculator.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\CTA\RateCalculator\RateCalculator\RateCalculator\obj\Debug\net6.0\ref\RateCalculator.dll
